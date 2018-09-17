@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     //这是dev分支.......
     public static void main(String[] args) {
-        System.out.println("这是dev... 分支");
+        System.out.println("这是dev... 分支  开发冲突");
         SpringApplication.run(Application.class, args);
     }
 }
